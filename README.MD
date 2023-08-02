@@ -1,4 +1,4 @@
-# Shofy Electronics – Full Stack eCommerce Web Application + Admin Panel
+# Shofy Fashion – Full Stack eCommerce Web Application + Admin Panel
 
 
 ![Shofy Image Banner](https://i.ibb.co/vckrzmN/shofy-fashion-banner.png)
@@ -72,7 +72,7 @@ To get started with Shofy, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git
+    https://github.com/Hamed-Hasan/shofy-fashion-ecommerce-backend.git
    ```
 
 2. Install dependencies:
@@ -99,7 +99,7 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Live Link
 
-[Shofy Client Side Live Link](https://shofy-front-end.vercel.app)
+[Shofy Client Side Live Link](https://shofy-fashion-ecommerce-client.vercel.app)
 
 ## Server Side Live Link
 
@@ -107,11 +107,11 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Repo
 
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-client.git)
+[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-fashion-ecommerce-client.git)
 
 ## Server Side Repo
 
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git)
+[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-fashion-ecommerce-backend.git)
 
 ## Sources and Credits
 
